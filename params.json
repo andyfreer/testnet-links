@@ -1,6 +1,6 @@
 {
   "name": "Dash 12.1 Testnet Links",
   "tagline": "Dash 12.1 Testnet Links",
-  "body": "### Dash 12.1 Testnet Links\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page \r\n\r\n### Installation\r\n\r\n[Masternode Setup](https://gist.github.com/moocowmoo/66049a781f8eaa1021306072f19363d4)\r\n\r\n### Tools\r\n\r\nFaucet\r\nBlock explorer\r\nProposal Generator\r\n\r\n\r\n\r\n",
+  "body": "# Dash 12.1 Testnet Links\r\nHere you will find links and info on testnet pre-release of Dash 12.1 \r\n## Installation\r\n\r\n[Masternode Setup](https://gist.github.com/moocowmoo/66049a781f8eaa1021306072f19363d4)\r\n\r\n## Testnet Tools\r\n### Faucets\r\n[Flare's Faucet](https://dev-test.dash.org/)\r\n\r\n### Block Explorers\r\n[Snogcel's Insight](https://dev-test.dash.org/)\r\n[dash.org explorer](https://test.explorer.dash.org/chain/tDash)\r\n[Masternode.io](https://test.blockchain.masternode.io/)\r\n\r\n###Proposal Generator\r\n\r\n[Proposal Generator](http://govobject-proposal.slayer.work/)\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
